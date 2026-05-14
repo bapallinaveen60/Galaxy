@@ -103,12 +103,8 @@ After evaluation, the following files are generated:
 - `outputs/visualizations/sample_*.png` - Prediction visualizations (first 10 samples)
 
 ## Model Weights
+**Download Link**: https://drive.google.com/file/d/1KNa0R7U91cZrIptMJn6fJvxZQUPCHA6m/view?usp=sharing
 
-**Local**: `best_model.pth` (generated after training)
-
-**Download Link**: [Upload best_model.pth to Google Drive/HuggingFace and add link here]
-
-*Note: The trained model weights will be available for download after uploading to a cloud storage service.*
 
 ## Results
 
