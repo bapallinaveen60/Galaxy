@@ -1,0 +1,9 @@
+torch==2.3.1+cu118
+torchvision==0.18.1+cu118
+rasterio==1.5.0
+numpy==2.4.4
+matplotlib==3.10.9
+scikit-learn==1.8.0
+tqdm==4.67.3
+albumentations==2.0.8
+opencv-python==4.13.0.92
